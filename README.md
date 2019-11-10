@@ -36,9 +36,15 @@ configurar un buen entorno de trabajo en Linux
 
   apt-get install compton -y
 
+#Editar fichero bspwmrc  
 
+  nano bspwmrc
+  
+  wmname LG3D &
 
+#guardar fichero
 
+   apt-get install feh -y
 
 
  
