@@ -219,7 +219,7 @@ super + shift + f
         firefox
 
 
-
+23:20
 
 
  
